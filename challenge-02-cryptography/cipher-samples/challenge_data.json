@@ -1,0 +1,19 @@
+{
+  "description": "Multi-layer cryptographic challenge",
+  "encrypted_data": [
+    510, 636, 713, 524, 860, 370, 573, 720, 797, 517, 587, 811, 629, 811, 643, 720, 797, 832, 587, 356, 797, 580, 412, 384, 797, 832, 692, 853, 559, 531, 559, 804, 776, 468, 482, 755, 629, 811, 580, 853, 776, 545, 412, 832, 790, 622, 573, 755, 776, 832, 559, 832, 776, 363, 846, 384, 860, 531, 692, 804, 608, 706, 566, 853, 587, 468, 349, 440
+  ],
+  "substitution_hint": "ABCDEFGHIJKLMNOPQRSTUVWXYZ -> NOPQRSTUVWXYZABCDEFGHIJKLM",
+  "cipher_info": {
+    "layer4": "Each character encoded as: (ASCII_value * 7) + 13",
+    "layer3": "Substitution cipher with fixed seed",
+    "layer2": "Standard Base64 encoding", 
+    "layer1": "Caesar cipher with common shift"
+  },
+  "hints": [
+    "Start with the number encoding - reverse the mathematical operation",
+    "Look for patterns in the substitution cipher",
+    "Base64 encoding follows standard format",
+    "Caesar cipher uses ROT13"
+  ]
+}

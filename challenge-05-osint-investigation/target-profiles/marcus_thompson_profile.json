@@ -1,0 +1,210 @@
+{
+  "target_info": {
+    "name": "Marcus Thompson",
+    "alias": "CyberMarcus",
+    "age": 28,
+    "location": "Austin, Texas, USA",
+    "occupation": "Senior Security Analyst",
+    "company": "TechCorp Solutions",
+    "education": "University of Texas at Austin - Computer Science (2019)"
+  },
+  "social_media_presence": {
+    "linkedin": {
+      "profile_url": "linkedin.com/in/marcus-thompson-sec",
+      "headline": "Senior Security Analyst | Incident Response | Threat Hunter",
+      "connections": 347,
+      "location": "Austin, Texas",
+      "current_position": {
+        "title": "Senior Security Analyst",
+        "company": "TechCorp Solutions",
+        "duration": "2022 - Present",
+        "description": "Leading incident response activities and threat hunting operations"
+      },
+      "previous_positions": [
+        {
+          "title": "Security Analyst",
+          "company": "Austin Regional Bank",
+          "duration": "2020 - 2022",
+          "description": "SIEM monitoring and vulnerability assessment"
+        },
+        {
+          "title": "Junior Security Analyst",
+          "company": "UT Austin IT Security",
+          "duration": "2019 - 2020",
+          "description": "Campus network security monitoring"
+        }
+      ],
+      "skills": [
+        "Cybersecurity (89 endorsements)",
+        "Incident Response (67 endorsements)",
+        "Threat Hunting (45 endorsements)",
+        "Malware Analysis (52 endorsements)",
+        "Python (38 endorsements)"
+      ],
+      "certifications": ["CISSP", "GCIH", "CEH"]
+    },
+    "twitter": {
+      "handle": "@CyberMarcus_ATX",
+      "display_name": "Marcus Thompson",
+      "bio": "InfoSec Professional | CTF Enthusiast | Rock Climber | Austin, TX 🤘",
+      "followers": 1247,
+      "following": 892,
+      "tweets": 3156,
+      "location": "Austin, Texas",
+      "website": "austin-infosec-insights.com",
+      "recent_tweets": [
+        {
+          "date": "2025-09-12",
+          "content": "Just wrapped up analysis of a sophisticated APT campaign. The persistence mechanisms were fascinating! #ThreatHunting #InfoSec",
+          "likes": 23,
+          "retweets": 8
+        },
+        {
+          "date": "2025-09-10",
+          "content": "Shoutout to @BSidesAustin for another amazing conference! Great talk on supply chain attacks. Already planning next year's presentation 📊",
+          "likes": 45,
+          "retweets": 12
+        },
+        {
+          "date": "2025-09-08",
+          "content": "Weekend project: Built a Python tool for automated IOC extraction from memory dumps. Code will be on my GitHub soon! #Python #DFIR",
+          "likes": 67,
+          "retweets": 15
+        }
+      ]
+    },
+    "github": {
+      "username": "CyberMarcus",
+      "name": "Marcus Thompson",
+      "bio": "Security Analyst | Python Developer | CTF Player",
+      "location": "Austin, TX",
+      "public_repos": 23,
+      "followers": 156,
+      "following": 89,
+      "repositories": [
+        {
+          "name": "security-automation-tools",
+          "description": "Python scripts for security operations automation",
+          "language": "Python",
+          "stars": 89,
+          "forks": 23,
+          "last_updated": "3 days ago",
+          "topics": ["security", "automation", "python", "soc"]
+        },
+        {
+          "name": "ctf-writeups-2025",
+          "description": "My solutions and walkthroughs for CTF competitions",
+          "language": "Markdown",
+          "stars": 45,
+          "forks": 12,
+          "last_updated": "1 week ago",
+          "topics": ["ctf", "cybersecurity", "writeups", "hacking"]
+        },
+        {
+          "name": "malware-analysis-framework",
+          "description": "Educational framework for safe malware analysis",
+          "language": "Python",
+          "stars": 123,
+          "forks": 34,
+          "last_updated": "2 weeks ago",
+          "topics": ["malware", "analysis", "security", "education"]
+        }
+      ]
+    }
+  },
+  "professional_footprint": {
+    "conferences": [
+      {
+        "name": "BSides Austin 2025",
+        "role": "Speaker",
+        "topic": "Advanced Threat Hunting Techniques in Cloud Environments",
+        "date": "September 2025"
+      },
+      {
+        "name": "DefCon 32",
+        "role": "Attendee",
+        "village": "Blue Team Village",
+        "date": "August 2024"
+      }
+    ],
+    "publications": [
+      {
+        "title": "Advanced Threat Hunting in Enterprise Networks",
+        "publication": "InfoSec Journal",
+        "date": "March 2025",
+        "coauthor": "Dr. Sarah Kim"
+      },
+      {
+        "title": "Building Effective SOC Capabilities for Mid-Size Organizations",
+        "publication": "TechCorp Security Blog",
+        "date": "October 2024",
+        "views": 2847
+      }
+    ],
+    "certifications": [
+      {
+        "name": "Certified Information Systems Security Professional (CISSP)",
+        "issuer": "(ISC)²",
+        "date_obtained": "2023",
+        "credential_id": "123456"
+      },
+      {
+        "name": "GIAC Certified Incident Handler (GCIH)",
+        "issuer": "SANS Institute",
+        "date_obtained": "2022",
+        "credential_id": "789012"
+      },
+      {
+        "name": "Certified Ethical Hacker (CEH)",
+        "issuer": "EC-Council",
+        "date_obtained": "2021",
+        "credential_id": "345678"
+      }
+    ]
+  },
+  "personal_interests": {
+    "hobbies": [
+      "Rock climbing",
+      "Craft beer tasting",
+      "Austin live music scene",
+      "Photography",
+      "Hiking"
+    ],
+    "favorite_locations": [
+      "Reimers Ranch (rock climbing)",
+      "Zilker Park",
+      "South by Southwest venues",
+      "Austin City Limits Music Festival",
+      "Local craft breweries"
+    ],
+    "equipment": {
+      "camera": "Canon EOS R5",
+      "climbing_gear": "Black Diamond equipment",
+      "laptop": "ThinkPad X1 Carbon"
+    }
+  },
+  "digital_artifacts": {
+    "email_patterns": [
+      "marcus.thompson@techcorp.com",
+      "cybermarcus@protonmail.com",
+      "m.thompson.sec@gmail.com",
+      "marcus@austin-infosec-insights.com"
+    ],
+    "usernames": [
+      "CyberMarcus",
+      "MarcusT_Sec",
+      "austin_sec_guy",
+      "cybermarcus_atx"
+    ],
+    "phone_patterns": [
+      "512-555-XXXX (Austin area code)",
+      "+1-512-XXX-XXXX"
+    ],
+    "metadata_clues": {
+      "timezone": "America/Chicago (CDT/CST)",
+      "common_ips": ["192.168.1.0/24", "10.0.0.0/8"],
+      "browser_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+      "programming_languages": ["Python", "JavaScript", "Bash", "PowerShell"]
+    }
+  }
+}
